@@ -9,11 +9,11 @@ export type ExampleModel = {
 
 const EXAMPLES: ExampleModel[] = [
     {
-        text: "What is included in my Northwind Health Plus plan that is not in standard?",
-        value: "What is included in my Northwind Health Plus plan that is not in standard?"
+        text: "Who is Jellyfish?",
+        value: "Who is Jellyfish?"
     },
-    { text: "What happens in a performance review?", value: "What happens in a performance review?" },
-    { text: "What does a Product Manager do?", value: "What does a Product Manager do?" }
+    { text: "When was Jellyfish Founded?", value: "WHen was Jellyfish Founded" },
+    { text: "What Paid Media Services does Jellyfish Offer?", value: "What Paid Media Services does Jellyfish Offer?" }
 ];
 
 interface Props {
